@@ -69,47 +69,6 @@ Keras-Traffic-Sign-Classifier-with-GUI/
 └── README.md
 ```
 
-## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Melvin-Paul-Jacob/Keras-Traffic-Sign-Classifier-with-GUI.git
-cd Keras-Traffic-Sign-Classifier-with-GUI
-```
-
-### Create Virtual Environment (Optional)
-
-```bash
-python -m venv venv
-```
-
-Activate:
-
-**Windows**
-```bash
-venv\Scripts\activate
-```
-
-**Linux/macOS**
-```bash
-source venv/bin/activate
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Training the Model
-
-Place the dataset in the appropriate directory and run:
-
-```bash
-python train.py
-```
-
 The training pipeline includes:
 
 - Data loading
@@ -186,19 +145,6 @@ The trained CNN model is capable of achieving high classification accuracy when 
 ## Results
 
 The model successfully classifies traffic sign images through an interactive GUI interface, providing a simple demonstration of Deep Learning-based image classification for transportation applications.
-
-## Author
-
-**Melvin Paul Jacob**
-
-Computer Vision Engineer | AI & Machine Learning Engineer
-
-GitHub:
-https://github.com/Melvin-Paul-Jacob
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
